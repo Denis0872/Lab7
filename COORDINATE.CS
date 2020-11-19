@@ -9,12 +9,14 @@ namespace Utils
 		private double x;
 		private double y;
 
-		public Coordinate() {
+		public Coordinate() 
+		{
 			x=0.0;
 			y=0.0;
 		}
 
-		public Coordinate(double px,double py) {
+		public Coordinate(double px,double py) 
+		{
 			x=px;
 			y=py;
 		}
