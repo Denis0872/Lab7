@@ -16,9 +16,6 @@ namespace Utils
             Utils.Display(num);
             Utils.Display(msg);
             Utils.Display(c);
-
-
-
             Console.ReadLine();
         }
     }
